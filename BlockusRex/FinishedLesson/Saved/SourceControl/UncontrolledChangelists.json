@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cuber/source/repos/blockusrex/BlockusRex/FinishedLesson/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset",
+				"C:/Users/cuber/source/repos/blockusrex/BlockusRex/FinishedLesson/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/21/UTBLDYEXI662H80LZ6I8VU.uasset",
+				"C:/Users/cuber/source/repos/blockusrex/BlockusRex/FinishedLesson/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset",
+				"C:/Users/cuber/source/repos/blockusrex/BlockusRex/FinishedLesson/Content/TopDown/Blueprints/BP_EnemyCharacter.uasset",
+				"C:/Users/cuber/source/repos/blockusrex/BlockusRex/FinishedLesson/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset",
+				"C:/Users/cuber/source/repos/blockusrex/BlockusRex/FinishedLesson/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/cuber/source/repos/blockusrex/BlockusRex/FinishedLesson/Content/TopDown/Blueprints/EnemyBB.uasset",
+				"C:/Users/cuber/source/repos/blockusrex/BlockusRex/FinishedLesson/Content/TopDown/Blueprints/EnemyBT.uasset",
+				"C:/Users/cuber/source/repos/blockusrex/BlockusRex/FinishedLesson/Content/TopDown/Blueprints/EnemyAIC.uasset",
+				"C:/Users/cuber/source/repos/blockusrex/BlockusRex/FinishedLesson/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/77/39COH2E56GJ1L6ZWRVCJUG.uasset"
+			]
+		}
+	]
+}
